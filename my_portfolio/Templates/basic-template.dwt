@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Contact</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.typekit.net/ang0byc.css">
+	<link rel="stylesheet" href="https://use.typekit.net/ang0byc.css">
+	<link rel="stylesheet" href="https://use.typekit.net/ang0byc.css">
+	<!-- TemplateBeginEditable name="head" -->
+	<style>
+		/* Custom aside and main height for shorter page */
+		aside {
+			height: 550px;
+		}
+		main {
+			height: 560px;
+		}
+	</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	  <ul> <li><a href="../pages/about.html">About</a></li>
+		  <li><a href="../pages/blog.html">Blog</a></li>
+		  <li><a href="../pages/gallery.html">Gallery</a></li>
+		  <li><a href="../pages/contact.html">Contact</a></li>
+	  </ul>
+	
+	</nav>
+  <!--Begin Floated Elements-->  
+  <aside><h3>I'm a high school student who, like most people, has a lot of thoughts.</h3> 
+	<h3>Join me as I overthink things in daily life.</h3> 
+	<h3>by Anisha Shashidhar</h3></aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+</main>
+ <!-- TemplateEndEditable --> <!--End Floated Elements-->
+  <footer></footer>
+</div>
+</body>
+</html>
